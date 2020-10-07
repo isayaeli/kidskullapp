@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986764859206",
+    "firebase_url": "https://kidskulapp.firebaseio.com",
+    "project_id": "kidskulapp",
+    "storage_bucket": "kidskulapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986764859206:android:4c5c519b330908947cb747",
+        "android_client_info": {
+          "package_name": "com.example.kidskulapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986764859206-i8hgr9631qstbtadkp7edr1f5lhgk8t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kidskulapp",
+            "certificate_hash": "e2cd289fcef09d82e59161f041929c66f67af9a6"
+          }
+        },
+        {
+          "client_id": "986764859206-3lo5ls9fiturfjk8t7nd2o2ob5kdh71m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdkXAfqewo22l4nQJoh7-VVSP4h2H7SfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986764859206-3lo5ls9fiturfjk8t7nd2o2ob5kdh71m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
